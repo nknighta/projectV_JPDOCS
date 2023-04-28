@@ -15,3 +15,13 @@ ProjectVはかねてより私が数年まから構想を立て、今年の年始
 
 そのた連絡は私の[Twitter]("https://twitter.com/ama_dev_1")まで。
 
+## クライアント側フレームワーク
+
+デスクトップ版とモバイル版ともにComponse Multi Platformで作ってみます。
+
+Kotlinは触ったことがないですが、実験ですね。
+
+## 参考記事他
+[Simple Dino Game made using Compose multiplatform](https://androidexample365.com/simple-dino-game-made-using-compose-multiplatform/)
+
+[projectV](https://github.com/nknighta/v)
